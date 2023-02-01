@@ -1,0 +1,149 @@
+body
+{
+	background-color: #051A25;
+	border: 1px solid #707070;
+}
+.pixelsheet
+{
+	background-color: #ffffff;
+	border: 1px solid #E9ECEF;
+	border-radius: 8px;
+
+}
+h1
+{
+	color: #023047;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+h2
+{
+	color: #023047;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+img
+{
+
+    width: auto;
+    height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+img.NextF
+{
+
+    top: 100px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    display: block;
+   left: 45px;
+}
+img.NextF1
+{
+
+    top: -55px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    display: block;
+   left: 442px;
+}
+img.Next
+{
+    top: 100px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    display: block;
+   right: 45px;
+    
+}
+
+.Properties
+{
+	background-color: #ffffff;
+	color: #023047;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+.Values
+{
+	background-color: #ffffff;
+	color: #4E6E7E;
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+label
+{
+	margin-right: 30px;
+}
+.checked 
+{
+  color: #FFB703;
+}
+.Rate
+{
+	color: #023047;
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;	
+	position: fixed;
+   left:790px;
+  /* bottom:30px;*/
+   width: 100%;
+   top:50px;
+
+}
+button
+{
+	background-color: #219EBC;
+	border: 1px solid #219EBC;
+	border-radius: 4px;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 6px 10px;
+	text-align: center;
+	position: fixed;
+   left:1170px;
+   top:95px;
+   /*bottom:34px;*/
+}
+.flex-container
+{
+	display: flex;
+	
+}
+.flex-item2
+{
+	background-color: #ffffff;
+	color: #4E6E7E;
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	flex:70%;
+
+	
+
+}
+.flex-item1
+{
+	background-color: #ffffff;
+	color: #023047;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	flex:30%;
+	margin-left:30px;
+	}
+

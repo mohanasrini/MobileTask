@@ -1,0 +1,39 @@
+.google
+{
+    top: 10px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 73px;
+}
+a
+{
+	font-size: 14px;
+	color: #4E6E7E;
+	font-family: 'Montserrat', sans-serif;
+	padding: 50px;
+}
+a.pro
+{
+	font-size: 14px;
+	color: #219EBC;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	padding: 50px;
+}
+.Headings
+{
+	display: flex;
+	justify-content: center;
+}
+button
+{
+	color: #219EBC;
+	border: 1px solid #219EBC;
+	border-radius: 4px;
+	background-color: #ffffff;
+	font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
